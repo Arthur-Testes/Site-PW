@@ -1,0 +1,57 @@
+.corpo{
+    color: #a7c1ff;
+    background-color: #000000;
+    border-radius: 5px;
+    height: 170px;
+    width: 1110px;
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    font-size: 35px;
+    padding: 10px 20px;
+}
+
+
+.cabeca {
+
+    background-color: #261c93;
+    height: 175px;
+}
+
+.fundo{
+    background-color: #1f1969;
+}
+
+.rodape{
+    color: #000000;
+    background-color: #261c93;
+    text-align: center;
+}
+
+.exemplo{
+    color: #a7c1ff;
+    background-color: #000000;
+    border-radius: 5px;
+    height: 150px;
+    width: 1080px;
+   text-align: center;
+}
+
+.codigogrid{
+    background-color: #2184F5;
+    height: 390px;
+    width: 1110px;
+    text-align: center;
+}
+
+.codigo{
+    background-color: #2184F5;
+    height: 240px;
+    width: 1110px;
+    text-align: center;
+}
